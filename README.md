@@ -67,7 +67,7 @@ This will give you fast full screen windows that are switchable without switchin
 Same as iTerm. The Lion style spaces navigation slows everything down for no reason.
 
 ## If you want to run vim in terminal
-# (DO THIS!)
+### (DO THIS!)
 
 * Make sure you install Solarized colorscheme in your terminal!
 * If you don't want to use solarized terminal, then make sure you do this:
