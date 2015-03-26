@@ -316,3 +316,19 @@ as an actual debugger by installing [pry-nav](https://github.com/nixme/pry-nav).
 [Learn more about YADR's pry customizations and how to install](doc/pry.md)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/skwp/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+
+
+### TODO
+
+install nvm for node: 
+```
+curl https://raw.githubusercontent.com/creationix/nvm/v0.24.0/install.sh | bash
+```
+https://github.com/creationix/nvm
+* get latest stabe
+
+
+install ember
+install ember-cli
