@@ -324,10 +324,10 @@ as an actual debugger by installing [pry-nav](https://github.com/nixme/pry-nav).
 
 install nvm for node: 
 ```
-curl https://raw.githubusercontent.com/creationix/nvm/v0.24.0/install.sh | bash
+brew install nvm
 ```
-https://github.com/creationix/nvm
-* get latest stabe
+follow instructions
+
 
 
 install ember
