@@ -329,6 +329,14 @@ brew install nvm
 follow instructions
 
 
+install GO
+```
+brew install hg
+brew install go
+mkdir $HOME/Go
+mkdir -p $HOME/Go/src/github.com/h55nick
+```
+
 
 install ember
 install ember-cli
